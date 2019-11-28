@@ -6,6 +6,7 @@ import requests
   Demo2: Async
   Note: this script is done with Python 2.7 and it will be integrated to SAP DS as a solution to retreive LEI data from Thomson Reuters
   and save the data into database.
+  Ref: https://developers.refinitiv.com/datascope-select-dss/datascope-select-rest-api
 '''
 
 username = '***'
