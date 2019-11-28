@@ -6,6 +6,7 @@ import requests
 '''
   Demo1: Sync mode
   Note this script is done with Python 2.7 which will be integrated into SAP DS.
+  Ref: https://developers.refinitiv.com/datascope-select-dss/datascope-select-rest-api
 '''
 user = '***'
 passwd = '***'
