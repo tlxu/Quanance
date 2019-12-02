@@ -21,11 +21,11 @@ payload = {
             "@odata.type": "#ThomsonReuters.Dss.Api.Extractions.ExtractionRequests.EntityIdentifierList",
             "EntityIdentifiers":[
                 {
-                    "Identifier":"RR3QWICWWIPCS8A4S074",
+                    "Identifier":"xxxx",
                     "IdentifierType":"Lei"
                 },
                 {
-                    "Identifier":"JBONEPAGQXF4QP29B387",
+                    "Identifier":"xxxx",
                     "IdentifierType":"Lei"
                 }
             ]
