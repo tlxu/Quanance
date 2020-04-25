@@ -1,3 +1,3 @@
 
-def sma(x, window):
-    return x.rolling(5).mean()
+def sma(df, window):
+    return df.rolling(window=window).mean()
